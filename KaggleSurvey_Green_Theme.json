@@ -1,0 +1,98 @@
+{
+  "name": "Kaggle Survey Green",
+  "dataColors": [
+    "#0A5D55",
+    "#2E9C7F",
+    "#FABB42",
+    "#9ED5C0",
+    "#0C393F",
+    "#3A7A6E",
+    "#F2D98B",
+    "#6FBFA6"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#0C393F",
+  "tableAccent": "#0A5D55",
+  "good": "#2E9C7F",
+  "neutral": "#FABB42",
+  "bad": "#D9534F",
+  "maximum": "#0A5D55",
+  "center": "#9ED5C0",
+  "minimum": "#E6F4EE",
+  "null": "#C9D3CF",
+  "textClasses": {
+    "title": {
+      "fontSize": 12,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#0C393F"
+    },
+    "label": {
+      "fontSize": 10,
+      "fontFace": "Segoe UI",
+      "color": "#3F5652"
+    },
+    "callout": {
+      "fontSize": 26,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#0A5D55"
+    },
+    "header": {
+      "fontSize": 11,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#0C393F"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "show": true,
+            "transparency": 100
+          }
+        ],
+        "border": [
+          {
+            "show": false
+          }
+        ],
+        "title": [
+          {
+            "show": true,
+            "fontColor": {
+              "solid": {
+                "color": "#0C393F"
+              }
+            },
+            "fontSize": 12,
+            "fontFamily": "Segoe UI Semibold",
+            "alignment": "left"
+          }
+        ],
+        "valueAxis": [
+          {
+            "gridlineColor": {
+              "solid": {
+                "color": "#E3EEE9"
+              }
+            },
+            "labelColor": {
+              "solid": {
+                "color": "#3F5652"
+              }
+            }
+          }
+        ],
+        "categoryAxis": [
+          {
+            "labelColor": {
+              "solid": {
+                "color": "#3F5652"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
