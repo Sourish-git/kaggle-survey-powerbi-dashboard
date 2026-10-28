@@ -1,11 +1,6 @@
 # What Does Kaggle's Data Community Look Like?
 ### A two-page Power BI dashboard on the Kaggle ML & Data Science Survey, 2017-2022
 
-![Overview page](Background_images/Overview_page.png)
-![Salary page](Background_images/Salary_page.png)
-
----
-
 ## 1. Project goal
 Every year Kaggle asks its community about their jobs, skills, and pay. I combined six years of answers to see **who the data community is, how it is changing, and what its members earn.**
 
