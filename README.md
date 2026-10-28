@@ -1,8 +1,8 @@
 # What Does Kaggle's Data Community Look Like?
 ### A two-page Power BI dashboard on the Kaggle ML & Data Science Survey, 2017-2022
 
-![Overview page](Background_images/Overview_page.png)
-![Salary page](Background_images/Salary_page.png)
+![Overview page](Background_images/Overview page.png)
+![Salary page](Background_images/Salary page.png)
 
 ---
 
