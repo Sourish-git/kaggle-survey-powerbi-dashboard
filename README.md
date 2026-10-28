@@ -1,8 +1,6 @@
 # What Does Kaggle's Data Community Look Like?
 ### A two-page Power BI dashboard on the Kaggle ML & Data Science Survey, 2017-2022
 
-**[View the live dashboard](PASTE_YOUR_POWER_BI_LINK_HERE)**
-
 ![Overview page](Images/overview.png)
 ![Salary page](Images/salary.png)
 
@@ -159,23 +157,7 @@ Three slicers (Year, Country, Gender) work on both pages. A "Clear all slicers" 
 - 2022 has no "Student" job title, because students were not asked.
 - The forecast line uses only five yearly points, so it is a rough guide.
 
-## 10. Open it yourself
-1. Download `Kaggle_Survey_Dashboard.pbix` and open it in Power BI Desktop (free).
-2. Unzip `Data/Data.zip`.
-3. In Power BI, go to **Home > Transform data > Data source settings > Change source**, and point the three files to your unzipped folder.
-4. Click **Refresh**.
-
-## 11. Repository
-```
-kaggle-survey-powerbi-dashboard
-  README.md
-  Kaggle_Survey_Dashboard.pbix
-  Data/Data.zip
-  Images/overview.png, salary.png
-  Theme/KaggleSurvey_Green_Theme.json
-```
-
-## 12. Skills shown
+## 10. Skills shown
 Data cleaning and combining files in Power Query, data modelling, DAX (CALCULATE, iterators, variables), choosing the right chart for each question, handling small samples, and clear writing about limits.
 
 ## Author
